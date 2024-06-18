@@ -1,0 +1,204 @@
+# mainboard
+Thraben Inspector
+Alabaster Mage
+Aviary Mechanic
+Cathar Commando
+Suture Priest
+Wall of Omens
+Banisher Priest
+Blade Splicer
+Bygone Bishop
+Mentor of the Meek
+Emeria Angel
+Leonin Warleader
+Archon of Justice
+Sun Titan
+Emeria Shepherd
+Divine Arrow
+Valorous Stance
+Crib Swap
+Inspired Charge
+Pacifism
+Banishing Light
+Grasp of Fate
+Oblivion Ring
+Faith's Fetters
+Indestructibility
+Exclusion Mage
+Selhoff Occultist
+Archaeomancer
+Clever Impersonator
+Talrand, Sky Summoner
+Faerie Formation
+Mind Flayer
+Arcanis the Omnipotent
+Sphinx of Enlightenment
+Brainstorm
+Chain of Vapor
+Opt
+Counterspell
+Negate
+Remove Soul
+Resculpt
+Fact or Fiction
+Evacuation
+Ponder
+Chart a Course
+Curse of the Swine
+Rite of Replication
+Time Warp
+Blatant Thievery
+Witching Well
+Kitesail Freebooter
+Reassembling Skeleton
+Zulaport Cutthroat
+Merciless Executioner
+Morbid Opportunist
+Pawn of Ulamog
+Vampire Nighthawk
+Gelatinous Cube
+Gravedigger
+Liliana's Reaver
+Pitiless Plunderer
+Drana, Kalastria Bloodchief
+Phyrexian Delver
+Grave Titan
+Harvester of Souls
+Tragic Slip
+Doom Blade
+Bake into a Pie
+Innocent Blood
+Exsanguinate
+Feed the Swarm
+Sign in Blood
+Zombify
+Ill-Gotten Inheritance
+Revel in Riches
+Dragonmaster Outcast
+Abbot of Keral Keep
+Blood Knight
+Thermo-Alchemist
+Young Pyromancer
+Dualcaster Mage
+Goblin Rabblemaster
+Guttersnipe
+Avaricious Dragon
+Beetleback Chief
+Flametongue Kavu
+Goldspan Dragon
+Rapacious Dragon
+Siege-Gang Commander
+Etali, Primal Storm
+Inferno Titan
+Lightning Bolt
+Abrade
+Magma Jet
+Chaos Warp
+Stoke the Flames
+Faithless Looting
+Fireball
+Mizzium Mortars
+Sunbird's Invocation
+Birds of Paradise
+Llanowar Elves
+Elvish Visionary
+Lotus Cobra
+Eternal Witness
+Reclamation Sage
+Tireless Tracker
+Chameleon Colossus
+Temur Sabertooth
+Acidic Slime
+Thragtusk
+Rampaging Baloths
+Old Gnawbone
+Ghalta, Primal Hunger
+Woodfall Primus
+Berserk
+Pounce
+Epic Confrontation
+Harmonize
+Cryptolith Rite
+Prismatic Omen
+Beastmaster Ascension
+Presence of Gond
+Verdant Embrace
+Zendikar's Roil
+Reflector Mage
+Azor, the Lawbringer
+Baleful Strix
+Fallen Shinobi
+Terminate
+Rakdos, the Showstopper
+Grand Warlord Radha
+Escape to the Wilds
+Rhys the Redeemed
+Faeburrow Elder
+Kaya's Guile
+Inkshield
+Poison-Tip Archer
+Beledros Witherbloom
+Deflecting Palm
+Assemble the Legion
+Crackling Doom
+Kaalia of the Vast
+Temur Ascendancy
+Maelstrom Wanderer
+Colfenor, the Last Yew
+Duneblast
+Kykar, Wind's Fury
+Villainous Wealth
+Maelstrom Archangel
+Hangarback Walker
+Etched Champion
+Palladium Myr
+Scuttlemutt
+Akroan Horse
+Awakened Amalgam
+Solemn Simulacrum
+Meteor Golem
+Artisan of Kozilek
+Desolation Twin
+Chromatic Sphere
+Chromatic Star
+Elixir of Immortality
+Manifold Key
+Skullclamp
+Blackblade Reforged
+Fellwar Stone
+Howling Mine
+Mind Stone
+Prismatic Lens
+Chromatic Lantern
+Mirage Mirror
+Hedron Archive
+Batterskull
+Chromatic Orrery
+Tundra
+Underground Sea
+Badlands
+Taiga
+Savannah
+Scrubland
+Volcanic Island
+Bayou
+Plateau
+Tropical Island
+Seaside Citadel
+Arcane Sanctum
+Crumbling Necropolis
+Savage Lands
+Jungle Shrine
+Nomad Outpost
+Frontier Bivouac
+Sandsteppe Citadel
+Mystic Monastery
+Opulent Palace
+Ancient Ziggurat
+Exotic Orchard
+Forbidden Orchard
+Mana Confluence
+Rogue's Passage
+
+# maybeboard
+

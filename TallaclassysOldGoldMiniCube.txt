@@ -1,0 +1,191 @@
+# mainboard
+Mother of Runes
+Thraben Inspector
+Weathered Wayfarer
+Containment Priest
+Sanctifier en-Vec
+Aven Mindcensor
+Flickerwisp
+Mirror Entity
+Ranger-Captain of Eos
+Sanctum Prelate
+Palace Jailer
+Restoration Angel
+Karmic Guide
+Timeless Dragon
+Angel of the Ruins
+Elspeth, Sun's Champion
+Enlightened Tutor
+Ephemerate
+Path to Exile
+Silence
+Generous Gift
+Prismatic Ending
+Sevinne's Reclamation
+Armageddon
+Battle Screech
+Wrath of God
+Kayla's Music Box
+Lingering Souls
+Rishadan Dockhand
+Baral, Chief of Compliance
+Saprazzan Heir
+Laboratory Maniac
+Sai, Master Thopterist
+Talrand, Sky Summoner
+Urza, Lord High Artificer
+Empress Galina
+Palinchron
+Brainstorm
+High Tide
+Mystical Tutor
+Repeal
+Daze
+Memory Lapse
+Remand
+Capsize
+Frantic Search
+Fact or Fiction
+Force of Will
+Gush
+Mystic Confluence
+Dig Through Time
+Inevitable Betrayal
+Show and Tell
+Tinker
+Upheaval
+Carrion Feeder
+Changeling Outcast
+Apprentice Necromancer
+Dark Confidant
+Dauthi Voidwalker
+Tourach, Dread Cantor
+Zulaport Cutthroat
+Vile Entomber
+Yawgmoth, Thran Physician
+Phyrexian Delver
+Harvester of Souls
+Gurmag Angler
+Dark Ritual
+Vampiric Tutor
+Dismember
+Profane Tutor
+Bone Shards
+Duress
+Reanimate
+Thoughtseize
+Unearth
+Hymn to Tourach
+Persist
+Sinkhole
+Bolas's Citadel
+Sarcomancy
+Recurring Nightmare
+Tasigur, the Golden Fang
+Goblin Guide
+Goblin Welder
+Monastery Swiftspear
+Skirk Prospector
+Dreadhorde Arcanist
+Goblin Engineer
+Mogg War Marshal
+Feldon of the Third Path
+Guttersnipe
+Pashalik Mons
+Avalanche Riders
+Flametongue Kavu
+Krenko, Mob Boss
+Kiki-Jiki, Mirror Breaker
+Siege-Gang Commander
+Zealous Conscripts
+Hellkite Igniter
+Lightning Bolt
+Abrade
+Disintegrate
+Faithless Looting
+Gamble
+Anger of the Gods
+Stone Rain
+Past in Flames
+Cursed Mirror
+Sneak Attack
+Alesha, Who Smiles at Death
+Arboreal Grazer
+Birds of Paradise
+Llanowar Elves
+Jolrael, Mwonvuli Recluse
+Kavu Titan
+Scavenging Ooze
+Utopia Tree
+Wall of Blossoms
+Elvish Spirit Guide
+Eternal Witness
+Reclamation Sage
+Beast Whisperer
+Forgotten Ancient
+Deep Forest Hermit
+Deranged Hermit
+Thragtusk
+Titania, Protector of Argoth
+Worldly Tutor
+Constant Mists
+Beast Within
+Gaea's Blessing
+Sylvan Scrying
+Exploration
+Mirri's Guile
+Utopia Sprawl
+Pattern of Rebirth
+Chatterfang, Squirrel General
+Ignoble Hierarch
+Teferi, Time Raveler
+Baleful Strix
+Mayhem Devil
+Bloodbraid Elf
+Mirari's Wake
+Vindicate
+Dack Fayden
+Fire // Ice
+Deathrite Shaman
+Lightning Helix
+Shardless Agent
+Monoskelion
+Phyrexian Revoker
+Solemn Simulacrum
+Steel Hellkite
+Wurmcoil Engine
+Scion of Draco
+Karn, the Great Creator
+Lotus Petal
+Grindstone
+Altar of Dementia
+Mazemind Tome
+Scroll Rack
+Staff of Domination
+Nevinyrral's Disk
+Panharmonicon
+Godless Shrine
+Marsh Flats
+Scalding Tarn
+Steam Vents
+Overgrown Tomb
+Verdant Catacombs
+Arid Mesa
+Sacred Foundry
+Breeding Pool
+Misty Rainforest
+Ancient Tomb
+City of Brass
+Rishadan Port
+Strip Mine
+Wasteland
+
+# maybeboard
+Digsite Engineer
+Emry, Lurker of the Loch
+Thought Monitor
+Brain Freeze
+Chain Lightning
+Wilderness Reclamation
+Mox Amber
+

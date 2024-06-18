@@ -1,0 +1,360 @@
+1 Bushi Tenderfoot // Kenzo the Hardhearted (CHK) 2
+1 Ghost-Lit Redeemer (SOK) 10
+1 Isamaru, Hound of Konda (CHK) 19
+1 Kami of False Hope (BOK) 10
+1 Lantern Kami (CHK) 32
+1 Araba Mothrider (SOK) 2
+1 Eight-and-a-Half-Tails (CHK) 8
+1 Hand of Honor (SOK) 12
+1 Kami of Ancient Law (CHK) 21
+1 Kataki, War's Wage (SOK) 14
+1 Kentaro, the Smiling Cat (BOK) 13
+1 Samurai of the Pale Curtain (CHK) 43
+1 Sensei Golden-Tail (CHK) 44
+1 Tallowisp (BOK) 25
+1 Descendant of Kiyomaro (SOK) 7
+1 Faithful Squire // Kaiso, Memory of Loyalty (BOK) 3
+1 Kabuto Moth (CHK) 20
+1 Masako the Humorless (CHK) 33
+1 Nikko-Onna (SOK) 21
+1 Opal-Eye, Konda's Yojimbo (BOK) 17
+1 Shinen of Stars' Light (SOK) 28
+1 Waxmane Baku (BOK) 29
+1 Celestial Kirin (SOK) 3
+1 Eiganjo Free-Riders (SOK) 8
+1 Hokori, Dust Drinker (BOK) 7
+1 Indebted Samurai (BOK) 9
+1 Kami of Old Stone (CHK) 22
+1 Michiko Konda, Truth Seeker (SOK) 19
+1 Nagao, Bound by Honor (CHK) 36
+1 Hikari, Twilight Guardian (CHK) 12
+1 Innocence Kami (CHK) 18
+1 Takeno, Samurai General (CHK) 46
+1 Yosei, the Morning Star (CHK) 50
+1 Oyobi, Who Split the Heavens (BOK) 18
+1 Myojin of Cleansing Fire (CHK) 35
+1 Blessed Breath (CHK) 1
+1 Ethereal Haze (CHK) 9
+1 Hail of Arrows (SOK) 11
+1 Hundred-Talon Strike (BOK) 8
+1 Mending Hands (BOK) 15
+1 Quiet Purity (CHK) 39
+1 Reciprocate (CHK) 40
+1 Spiritual Visit (SOK) 29
+1 Candles' Glow (CHK) 5
+1 Otherworldly Journey (CHK) 37
+1 Shining Shoal (BOK) 21
+1 Terashi's Verdict (BOK) 27
+1 Charge Across the Araba (SOK) 4
+1 Cleanfall (CHK) 6
+1 Terashi's Grasp (BOK) 26
+1 Final Judgment (BOK) 4
+1 Cowed by Wisdom (SOK) 5
+1 Genju of the Fields (BOK) 5
+1 Indomitable Will (CHK) 17
+1 Ward of Piety (BOK) 28
+1 Cage of Hands (CHK) 3
+1 Ghostly Prison (CHK) 10
+1 Heart of Light (BOK) 6
+1 Promise of Bunrei (SOK) 24
+1 Day of Destiny (BOK) 1
+1 Honden of Cleansing Fire (CHK) 14
+1 Reverence (SOK) 26
+1 Dreamcatcher (SOK) 34
+1 Teardrop Kami (BOK) 55
+1 Erayo, Soratami Ascendant // Erayo's Essence (SOK) 35
+1 Ghost-Lit Warder (SOK) 39
+1 Jushi Apprentice // Tomoya the Revealer (CHK) 70
+1 Kami of the Crescent Moon (SOK) 42
+1 Shape Stealer (SOK) 55
+1 Soratami Cloudskater (CHK) 86
+1 Callow Jushi // Jaraku the Interloper (BOK) 31
+1 Kira, Great Glass-Spinner (BOK) 40
+1 Mistblade Shinobi (BOK) 43
+1 Moonbow Illusionist (SOK) 46
+1 River Kaijin (CHK) 83
+1 Soratami Rainshaper (CHK) 89
+1 Walker of Secret Ways (BOK) 60
+1 Kaho, Minamo Historian (SOK) 41
+1 Ninja of the Deep Hours (BOK) 44
+1 Sakashima the Impostor (SOK) 53
+1 Sakashima's Student (PC2) 24
+1 Shimmering Glasskite (BOK) 51
+1 Soratami Mindsweeper (BOK) 52
+1 Soratami Mirror-Guard (CHK) 87
+1 Soratami Mirror-Mage (CHK) 88
+1 Cloudhoof Kirin (SOK) 31
+1 Higure, the Still Wind (BOK) 37
+1 Kiri-Onna (SOK) 43
+1 Meloku the Clouded Mirror (CHK) 74
+1 Quillmane Baku (BOK) 48
+1 Shinen of Flight's Wings (SOK) 57
+1 Teller of Tales (CHK) 95
+1 Jetting Glasskite (BOK) 38
+1 Keiga, the Tide Star (CHK) 72
+1 Sire of the Storm (CHK) 85
+1 Myojin of Seeing Winds (CHK) 75
+1 The Unspeakable (CHK) 98
+1 Reach Through Mists (CHK) 81
+1 Consuming Vortex (CHK) 54
+1 Dampen Thought (CHK) 57
+1 Disrupting Shoal (BOK) 33
+1 Hisoka's Defiance (CHK) 67
+1 Peer Through Depths (CHK) 78
+1 Squelch (CHK) 92
+1 Twincast (SOK) 60
+1 Veil of Secrecy (BOK) 59
+1 Hinder (CHK) 65
+1 Oppressive Will (SOK) 50
+1 Sift Through Sands (CHK) 84
+1 Thoughtbind (CHK) 96
+1 Gifts Ungiven (CHK) 62
+1 Minamo's Meddling (BOK) 42
+1 Eye of Nowhere (CHK) 59
+1 Ideas Unbound (SOK) 40
+1 Counsel of the Soratami (CHK) 55
+1 Eerie Procession (CHK) 58
+1 Petals of Insight (CHK) 79
+1 Reduce to Dreams (BOK) 49
+1 Eternal Dominion (SOK) 36
+1 Genju of the Falls (BOK) 35
+1 Freed from the Real (SOK) 38
+1 Threads of Disloyalty (BOK) 56
+1 Mystic Restraints (CHK) 76
+1 Honden of Seeing Winds (CHK) 69
+1 Bile Urchin (BOK) 61
+1 Ghost-Lit Stalker (SOK) 69
+1 Nezumi Shadow-Watcher (BOK) 74
+1 Hand of Cruelty (SOK) 71
+1 Kiku, Night's Flower (CHK) 121
+1 Kuro's Taken (SOK) 79
+1 Nezumi Cutthroat (CHK) 128
+1 Nezumi Graverobber // Nighteyes the Desecrator (CHK) 129
+1 Nezumi Shortfang // Stabwhisker the Odious (CHK) 131
+1 Skullsnatcher (BOK) 84
+1 Bloodthirsty Ogre (CHK) 104
+1 Kami of the Waning Moon (CHK) 120
+1 Kuon, Ogre Ascendant // Kuon's Essence (SOK) 78
+1 Ogre Marauder (BOK) 75
+1 Toshiro Umezawa (BOK) 89
+1 Akuta, Born of Ash (SOK) 61
+1 Blood Speaker (CHK) 103
+1 Horobi, Death's Wail (CHK) 117
+1 Infernal Kirin (SOK) 72
+1 Razorjaw Oni (SOK) 87
+1 Scourge of Numai (BOK) 80
+1 Yukora, the Prisoner (BOK) 90
+1 Kagemaro, First to Suffer (SOK) 73
+1 Kemuri-Onna (SOK) 76
+1 Marrow-Gnawer (CHK) 124
+1 Okiba-Gang Shinobi (BOK) 76
+1 Seizan, Perverter of Truth (J22) 463
+1 Shirei, Shizo's Caretaker (BOK) 81
+1 Skullmane Baku (BOK) 83
+1 Throat Slitter (BOK) 88
+1 Ink-Eyes, Servant of Oni (BOK) 71
+1 Kokusho, the Evening Star (CHK) 122
+1 Kyoki, Sanity's Eclipse (BOK) 72
+1 Pus Kami (BOK) 79
+1 Myojin of Night's Reach (CHK) 126
+1 Goryo's Vengeance (BOK) 67
+1 Hero's Demise (BOK) 68
+1 Sickening Shoal (BOK) 82
+1 Soulless Revival (CHK) 144
+1 Horobi's Whisper (BOK) 70
+1 Rend Flesh (CHK) 140
+1 Rend Spirit (CHK) 141
+1 Hideous Laughter (CHK) 115
+1 Death of a Thousand Stings (SOK) 64
+1 Pull Under (CHK) 137
+1 Psychic Spear (BOK) 78
+1 Stir the Grave (BOK) 85
+1 Distress (CHK) 111
+1 Kiku's Shadow (SOK) 77
+1 Swallowing Plague (CHK) 146
+1 Pain's Reward (SOK) 85
+1 Waking Nightmare (CHK) 149
+1 Befoul (CHK) 102
+1 Eradicate (BOK) 65
+1 Sink into Takenuma (SOK) 89
+1 Dance of Shadows (CHK) 108
+1 Exile into Darkness (SOK) 67
+1 Genju of the Fens (BOK) 66
+1 Mark of the Oni (BOK) 73
+1 Honden of Night's Reach (CHK) 116
+1 Kagemaro's Clutch (SOK) 74
+1 Night of Souls' Betrayal (CHK) 133
+1 Akki Avalanchers (CHK) 151
+1 Frostling (BOK) 103
+1 Glitterfang (SOK) 100
+1 Godo's Irregulars (SOK) 101
+1 Blademane Baku (BOK) 95
+1 Hearth Kami (CHK) 171
+1 Ishi-Ishi, Akki Crackshot (BOK) 110
+1 Akki Coalflinger (CHK) 152
+1 Cunning Bandit // Azamuki, Treachery Incarnate (BOK) 99
+1 Ghost-Lit Raider (SOK) 99
+1 Mannichi, the Fevered Dream (BOK) 112
+1 Pain Kami (CHK) 183
+1 Ronin Houndmaster (CHK) 184
+1 Zo-Zu the Punisher (CHK) 200
+1 Akki Underminer (CHK) 155
+1 Frostwielder (CHK) 167
+1 Fumiko the Lowblood (BOK) 104
+1 Initiate of Blood // Goka the Unjust (CHK) 173
+1 Kami of Fire's Roar (CHK) 174
+1 Ogre Recluse (BOK) 113
+1 Skyfire Kirin (SOK) 113
+1 Yuki-Onna (SOK) 120
+1 Frost Ogre (BOK) 102
+1 Heartless Hidetsugu (BOK) 107
+1 Jiwari, the Earth Aflame (SOK) 107
+1 Kiki-Jiki, Mirror Breaker (CHK) 175
+1 Kumano, Master Yamabushi (CHK) 176
+1 Soul of Magma (CHK) 189
+1 Earthshaker (CHK) 165
+1 Godo, Bandit Warlord (CHK) 169
+1 Homura, Human Ascendant // Homura's Essence (SOK) 103
+1 Oni of Wild Places (SOK) 108
+1 Ryusei, the Falling Star (CHK) 185
+1 Ashen Monstrosity (BOK) 93
+1 Myojin of Infinite Rage (CHK) 181
+1 Blazing Shoal (BOK) 96
+1 Crushing Pain (CHK) 162
+1 Desperate Ritual (CHK) 163
+1 First Volley (BOK) 100
+1 Glacial Ray (CHK) 168
+1 Sideswipe (CHK) 187
+1 Barrel Down Sokenzan (SOK) 94
+1 Flames of the Blood Hand (BOK) 101
+1 Hanabi Blast (CHK) 170
+1 Path of Anger's Flame (SOK) 109
+1 Yamabushi's Flame (CHK) 198
+1 Torrent of Stone (BOK) 119
+1 Through the Breach (CHK) 193
+1 Lava Spike (CHK) 178
+1 Yamabushi's Storm (CHK) 199
+1 Stone Rain (CHK) 191
+1 Sowing Salt (BOK) 118
+1 Spiraling Embers (SOK) 116
+1 Sunder from Within (SOK) 117
+1 Rally the Horde (SOK) 110
+1 Genju of the Spires (BOK) 105
+1 Captive Flame (SOK) 96
+1 Honden of Infinite Rage (CHK) 172
+1 Clash of Realities (BOK) 97
+1 Uncontrollable Anger (CHK) 195
+1 Blood Rites (CHK) 159
+1 In the Web of War (BOK) 108
+1 Child of Thorns (BOK) 123
+1 Hana Kami (CHK) 211
+1 Orochi Leafcaller (CHK) 234
+1 Sakura-Tribe Scout (SOK) 144
+1 Traproot Kami (BOK) 147
+1 Budoka Gardener // Dokai, Weaver of Life (CHK) 202
+1 Humble Budoka (CHK) 214
+1 Matsu-Tribe Sniper (BOK) 136
+1 Orochi Ranger (CHK) 235
+1 Orochi Sustainer (CHK) 236
+1 Petalmane Baku (BOK) 139
+1 Sakura-Tribe Elder (CHK) 239
+1 Shinen of Life's Roar (SOK) 149
+1 Azusa, Lost but Seeking (CHK) 201
+1 Budoka Pupil // Ichiga, Who Topples Oaks (BOK) 122
+1 Elder Pine of Jukai (SOK) 128
+1 Ghost-Lit Nourisher (SOK) 131
+1 Gnarled Mass (BOK) 127
+1 Isao, Enlightened Bushi (BOK) 129
+1 Orochi Eggwatcher // Shidako, Broodmistress (CHK) 233
+1 Haru-Onna (SOK) 132
+1 Iwamori of the Open Fist (BOK) 130
+1 Kami of the Tended Garden (SOK) 134
+1 Kodama of the South Tree (CHK) 223
+1 Lifespinner (BOK) 133
+1 Order of the Sacred Bell (CHK) 232
+1 Sosuke, Son of Seshiro (CHK) 244
+1 Arashi, the Sky Asunder (SOK) 121
+1 Briarknit Kami (SOK) 124
+1 Forked-Branch Garami (BOK) 125
+1 Kodama of the North Tree (CHK) 222
+1 Moss Kami (CHK) 228
+1 Seshiro the Anointed (CHK) 241
+1 Bounteous Kirin (SOK) 123
+1 Myojin of Life's Web (CHK) 229
+1 Kodama's Might (CHK) 224
+1 Nourishing Shoal (BOK) 137
+1 Vital Surge (BOK) 150
+1 Wear Away (CHK) 250
+1 Inner Calm, Outer Strength (SOK) 133
+1 Rending Vines (SOK) 143
+1 Roar of Jukai (BOK) 140
+1 Unchecked Growth (BOK) 148
+1 Strength of Cedars (CHK) 245
+1 Commune with Nature (CHK) 204
+1 Enshrined Memories (BOK) 124
+1 Time of Need (CHK) 247
+1 Kodama's Reach (CHK) 225
+1 Sosuke's Summons (BOK) 145
+1 Seek the Horizon (SOK) 147
+1 Splinter (BOK) 146
+1 Gale Force (CHK) 209
+1 Endless Swarm (SOK) 129
+1 Genju of the Cedars (BOK) 126
+1 Dense Canopy (SOK) 125
+1 Heartbeat of Spring (CHK) 212
+1 Lure (CHK) 226
+1 Molting Skin (SOK) 138
+1 Serpent Skin (CHK) 240
+1 Nature's Will (CHK) 230
+1 Seed the Land (SOK) 146
+1 Honden of Life's Web (CHK) 213
+1 Silent-Blade Oni (PC2) 105
+1 Iname as One (SOK) 151
+1 Genju of the Realm (BOK) 151
+1 Orochi Hatchery (CHK) 266
+1 Blinding Powder (BOK) 153
+1 Hankyu (CHK) 253
+1 O-Naginata (SOK) 157
+1 Pithing Needle (SOK) 158
+1 Sai of the Shinobi (PC2) 113
+1 Sensei's Divining Top (CHK) 268
+1 Shuko (BOK) 159
+1 Shuriken (BOK) 160
+1 Baku Altar (BOK) 152
+1 Journeyer's Kite (CHK) 257
+1 Konda's Banner (CHK) 259
+1 Manriki-Gusari (SOK) 156
+1 No-Dachi (CHK) 264
+1 Reito Lantern (CHK) 267
+1 Umezawa's Jitte (BOK) 163
+1 Honor-Worn Shaku (CHK) 254
+1 Kusari-Gama (CHK) 260
+1 Long-Forgotten Gohei (CHK) 261
+1 Neko-Te (BOK) 155
+1 Nine-Ringed Bo (CHK) 263
+1 Oathkeeper, Takeno's Daisho (CHK) 265
+1 Ronin Warclub (BOK) 158
+1 Tenza, Godo's Maul (CHK) 271
+1 Blood Clock (SOK) 153
+1 Jade Idol (CHK) 256
+1 Ornate Kanzashi (BOK) 157
+1 That Which Was Taken (BOK) 162
+1 Tatsumasa, the Dragon's Fang (CHK) 270
+1 Cloudcrest Lake (CHK) 274
+1 Waterveil Cavern (CHK) 286
+1 Lantern-Lit Graveyard (CHK) 278
+1 Pinecrest Ridge (CHK) 281
+1 Tranquil Garden (CHK) 284
+1 Boseiju, Who Shelters All (CHK) 273
+1 Eiganjo Castle (CHK) 275
+1 Forbidden Orchard (CHK) 276
+1 Hall of the Bandit Lord (CHK) 277
+1 Mikokoro, Center of the Sea (DMC) 217
+1 Minamo, School at Water's Edge (CHK) 279
+1 Miren, the Moaning Well (SOK) 163
+1 Okina, Temple to the Grandfathers (CHK) 280
+1 Shinka, the Bloodsoaked Keep (CHK) 282
+1 Shizo, Death's Storehouse (CHK) 283
+1 Tendo Ice Bridge (BOK) 165
+1 Tomb of Urami (SOK) 165
+1 Untaidake, the Cloud Keeper (CHK) 285

@@ -1,0 +1,184 @@
+# mainboard
+Kitesail Cleric
+Sea Gate Banneret
+Cliffhaven Sell-Sword
+Expedition Healer
+Expedition Healer
+Kor Blademaster
+Mesa Lynx
+Angelheart Protector
+Angelheart Protector
+Farsight Adept
+Kor Celebrant
+Tazeem Raptor
+Attended Healer
+Emeria Captain
+Kabira Outrider
+Prowling Felidar
+Prowling Felidar
+Makindi Ox
+Shepherd of Heroes
+Practiced Tactics
+Resolute Strike
+Resolute Strike
+Dauntless Unity
+Disenchant
+Pressure Point
+Smite the Monstrous
+Nahiri's Binding
+Journey to Oblivion
+Merfolk Windrobber
+Ruin Crab
+Zulaport Duelist
+Zulaport Duelist
+Cleric of Chill Depths
+Cleric of Chill Depths
+Skyclave Squid
+Tazeem Roilmage
+Tazeem Roilmage
+Cunning Geysermage
+Risen Riptide
+Seafloor Stalker
+Windrider Wizard
+Cascade Seer
+Expedition Diviner
+Expedition Diviner
+Sure-Footed Infiltrator
+Living Tempest
+Chilling Trap
+Shell Shield
+Anticognition
+Deliberate
+Into the Roil
+Negate
+Glacial Grasp
+Field Research
+Lullmage's Domination
+Bubble Snare
+Expedition Skulker
+Expedition Skulker
+Ghastly Gloomhunter
+Malakir Blood-Priest
+Malakir Blood-Priest
+Guul Draz Mucklord
+Hagra Constrictor
+Hagra Constrictor
+Marauding Blight-Priest
+Marauding Blight-Priest
+Nimana Skydancer
+Shadow Stinger
+Highborn Vampire
+Nimana Skitter-Sneak
+Skyclave Shadowcat
+Dreadwurm
+Scion of the Swarm
+Drana's Silencer
+Oblivion's Hunger
+Subtle Strike
+Vanquish the Weak
+Deadly Alliance
+Blood Beckoning
+Feed the Swarm
+Mind Drain
+Blood Price
+Thwart the Grave
+Mind Carver
+Akoum Hellhound
+Akoum Hellhound
+Fireblade Charger
+Sneaking Guide
+Sneaking Guide
+Fissure Wizard
+Goma Fada Vanguard
+Grotag Bug-Catcher
+Teeterpeak Ambusher
+Ardent Electromancer
+Ardent Electromancer
+Expedition Champion
+Skyclave Geopede
+Tuktuk Rubblefort
+Rockslide Sorcerer
+Scorch Rider
+Spitfire Lagac
+Thundering Sparkmage
+Pyroclastic Hellion
+Inordinate Rage
+Sizzling Barrage
+Molten Blast
+Synchronized Spellcraft
+Cleansing Wildfire
+Roil Eruption
+Tormenting Voice
+Scavenged Blade
+Scavenged Blade
+Tajuru Blightblade
+Dauntless Survivor
+Dauntless Survivor
+Gnarlid Colony
+Kazandu Nectarpot
+Kazandu Nectarpot
+Murasa Brute
+Murasa Sproutling
+Tajuru Snarecaster
+Taunting Arbormage
+Territorial Scythecat
+Territorial Scythecat
+Canopy Baloth
+Joraga Visionary
+Turntimber Ascetic
+Kazandu Stomper
+Veteran Adventurer
+Might of Murasa
+Broken Wings
+Roiling Regrowth
+Reclaim the Wastes
+Strength of Solidarity
+Adventure Awaits
+Adventure Awaits
+Rabid Bite
+Scale the Heights
+Skyclave Pick-Axe
+Nissa's Zendikon
+Linvala, Shield of Sea Gate
+Spoils of Adventure
+Soaring Thought-Thief
+Zareth San, the Trickster
+Ravager's Mace
+Zagras, Thief of Heartbeats
+Brushfire Elemental
+Phylath, World Sculptor
+Murasa Rootgrazer
+Yasharn, Implacable Earth
+Cleric of Life's Bond
+Orah, Skyclave Hierophant
+Kaza, Roil Chaser
+Umara Mystic
+Moss-Pit Skeleton
+Grakmaw, Skyclave Ravager
+Akiri, Fearless Voyager
+Kargan Warleader
+Verazol, the Split Current
+Lullmage's Familiar
+Tazri, Beacon of Unity
+Stonework Packbeast
+Stonework Packbeast
+Stonework Packbeast
+Stonework Packbeast
+Relic Golem
+Skyclave Sentinel
+Sea Gate Colossus
+Sea Gate Colossus
+Cliffhaven Kitesail
+Cliffhaven Kitesail
+Cliffhaven Kitesail
+Utility Knife
+Utility Knife
+Spare Supplies
+Evolving Wilds
+Evolving Wilds
+Evolving Wilds
+Evolving Wilds
+Throne of Makindi
+
+# maybeboard
+

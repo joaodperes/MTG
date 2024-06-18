@@ -1,0 +1,221 @@
+# mainboard
+1 Thraben Inspector (SOI) 44
+1 Alabaster Mage (M12) 2
+1 Cathar Commando (MID) 10
+1 Gold Myr (SOM) 157
+1 Suture Priest (NPH) 25
+1 Wall of Omens (ROE) 53
+1 Banisher Priest (M14) 7
+1 Blade Splicer (NPH) 4
+1 Bygone Bishop (SOI) 8
+1 Mentor of the Meek (M19) 27
+1 Emeria Angel (ZEN) 11
+1 Palace Jailer (CMM) 47
+1 Archon of Justice (M12) 6
+1 Path to Exile (CON) 15
+1 Swords to Plowshares (BBD) 110
+1 Divine Arrow (IKO) 9
+1 Valorous Stance (VOW) 42
+1 Crib Swap (LRW) 11
+1 Inspired Charge (MOM) 19
+1 Pacifism (IKO) 25
+1 Banishing Light (THB) 4
+1 Grasp of Fate (C15) 3
+1 Oblivion Ring (M13) 22
+1 Faith's Fetters (M21) 17
+1 Indestructibility (M14) 23
+1 Silver Myr (SOM) 202
+1 Exclusion Mage (M19) 55
+1 Selhoff Occultist (ISD) 73
+1 Archaeomancer (M14) 43
+1 Clever Impersonator (KTK) 34
+1 Faerie Formation (ELD) 316
+1 Mind Flayer (AFR) 63
+1 Arcanis the Omnipotent (10E) 66
+1 Brainstorm (MKC) 96
+1 Opt (M21) 59
+1 Counterspell (MH2) 267
+1 Negate (MOM) 68
+1 Remove Soul (10E) 100
+1 Resculpt (STX) 51
+1 Fact or Fiction (CMR) 396
+1 Evacuation (10E) 83
+1 Ponder (M12) 73
+1 Preordain (M11) 70
+1 Serum Visions (5DN) 36
+1 Chart a Course (XLN) 48
+1 Curse of the Swine (THS) 46
+1 Windfall (USG) 111
+1 Time Warp (M10) 75
+1 Witching Well (ELD) 74
+1 Fall from Favor (CMM) 93
+1 Kitesail Freebooter (M21) 107
+1 Leaden Myr (SOM) 170
+1 Reassembling Skeleton (M19) 116
+1 Zulaport Cutthroat (BFZ) 126
+1 Fleshbag Marauder (ORI) 98
+1 Merciless Executioner (FRF) 76
+1 Morbid Opportunist (MID) 113
+1 Vampire Nighthawk (M13) 112
+1 Gelatinous Cube (AFR) 105
+1 Gravedigger (M20) 103
+1 Thorn of the Black Rose (CMM) 190
+1 Custodi Lich (NCC) 244
+1 Drana, Kalastria Bloodchief (ROE) 107
+1 Harvester of Souls (AVR) 107
+1 Tragic Slip (DKA) 76
+1 You Are Already Dead (NEO) 129
+1 Doom Blade (M14) 96
+1 Bake into a Pie (ELD) 76
+1 Innocent Blood (ODY) 145
+1 Reanimate (TMP) 151
+1 Exsanguinate (SOM) 61
+1 Feed the Swarm (ZNR) 102
+1 Sign in Blood (M15) 114
+1 Zombify (ODY) 171
+1 Ill-Gotten Inheritance (RNA) 77
+1 Dragonmaster Outcast (BFZ) 144
+1 Abbot of Keral Keep (ORI) 127
+1 Iron Myr (SOM) 168
+1 Thermo-Alchemist (MID) 164
+1 Young Pyromancer (M14) 163
+1 Dualcaster Mage (C21) 165
+1 Goblin Rabblemaster (M15) 145
+1 Guttersnipe (M19) 145
+1 Avaricious Dragon (ORI) 131
+1 Emberwilde Captain (CMR) 175
+1 Flametongue Kavu (PLS) 60
+1 Goldspan Dragon (KHM) 139
+1 Rapacious Dragon (M20) 153
+1 Etali, Primal Storm (RIX) 100
+1 Skyline Despot (CMM) 254
+1 Lightning Bolt (M11) 149
+1 Abrade (HOU) 83
+1 Comet Storm (WWK) 76
+1 Magma Jet (THS) 128
+1 Thrill of Possibility (THB) 159
+1 Chaos Warp (C14) 174
+1 Stoke the Flames (MOM) 166
+1 Faithless Looting (DKA) 87
+1 Mizzium Mortars (RTR) 101
+1 Sunbird's Invocation (XLN) 165
+1 Arbor Elf (M13) 160
+1 Birds of Paradise (M12) 165
+1 Elvish Mystic (M14) 169
+1 Llanowar Elves (M12) 182
+1 Elvish Visionary (ORI) 175
+1 Lotus Cobra (ZEN) 168
+1 Scavenging Ooze (M21) 204
+1 Eternal Witness (5DN) 86
+1 Reclamation Sage (M19) 196
+1 Tireless Tracker (SOI) 233
+1 Beast Whisperer (GRN) 123
+1 Chameleon Colossus (MOR) 116
+1 Temur Sabertooth (FRF) 141
+1 Acidic Slime (M13) 159
+1 Regal Behemoth (LCC) 251
+1 Ghalta, Primal Hunger (RIX) 130
+1 Berserk (CN2) 175
+1 Pounce (XLN) 200
+1 Beast Within (NPH) 103
+1 Epic Confrontation (BRO) 176
+1 Harmonize (PLC) 149
+1 Cryptolith Rite (SOI) 200
+1 Prismatic Omen (SHM) 126
+1 Verdant Embrace (TSP) 232
+1 Zendikar's Roil (ORI) 209
+1 Brago, King Eternal (KHC) 82
+1 Baleful Strix (OTC) 215
+1 Sygg, River Cutthroat (SHM) 176
+1 Terminate (ARB) 46
+1 Rakdos, the Showstopper (RNA) 199
+1 Grand Warlord Radha (DOM) 195
+1 Escape to the Wilds (ELD) 189
+1 Rhys the Redeemed (SHM) 237
+1 Faeburrow Elder (ELD) 190
+1 Inkshield (C21) 71
+1 Knights of the Black Rose (MOC) 332
+1 Poison-Tip Archer (M19) 220
+1 Deflecting Palm (KTK) 173
+1 Rem Karolus, Stalwart Slayer (MID) 235
+1 Queen Marchesa (OTC) 239
+1 Temur Ascendancy (KTK) 207
+1 Duneblast (KTK) 174
+1 Kykar, Wind's Fury (M20) 212
+1 Villainous Wealth (KTK) 211
+1 Maelstrom Archangel (CON) 115
+1 Etched Champion (SOM) 154
+1 Palladium Myr (M21) 234
+1 Scuttlemutt (M20) 238
+1 Solemn Simulacrum (M21) 239
+1 Wurmcoil Engine (SOM) 223
+1 Meteor Golem (M20) 232
+1 Artisan of Kozilek (ROE) 2
+1 Introduction to Prophecy (STX) 4
+1 Introduction to Annihilation (STX) 3
+1 Chromatic Sphere (MRD) 151
+1 Chromatic Star (10E) 314
+1 Elixir of Immortality (M14) 209
+1 Manifold Key (M20) 230
+1 Skullclamp (DST) 140
+1 Sol Ring (V10) 12
+1 Blackblade Reforged (DOM) 211
+1 Fellwar Stone (CMD) 248
+1 Howling Mine (M10) 212
+1 Lightning Greaves (MRD) 199
+1 Mind Stone (10E) 335
+1 Prismatic Lens (TSP) 262
+1 Sword of the Animist (ORI) 240
+1 Chromatic Lantern (GRN) 233
+1 Mirage Mirror (HOU) 165
+1 Unstable Obelisk (CMM) 416
+1 Worn Powerstone (USG) 318
+1 Hedron Archive (BFZ) 223
+1 Thran Dynamo (UDS) 139
+1 Gilded Lotus (DOM) 215
+1 Dreamstone Hedron (ROE) 216
+1 Tundra (VMA) 322
+1 Underground Sea (VMA) 323
+1 Badlands (VMA) 291
+1 Taiga (VMA) 317
+1 Savannah (VMA) 311
+1 Scrubland (VMA) 313
+1 Volcanic Island (VMA) 324
+1 Bayou (VMA) 293
+1 Plateau (VMA) 308
+1 Tropical Island (VMA) 321
+1 Seaside Citadel (ALA) 229
+1 Arcane Sanctum (ALA) 220
+1 Crumbling Necropolis (ALA) 222
+1 Savage Lands (ALA) 228
+1 Jungle Shrine (ALA) 226
+1 Nomad Outpost (KTK) 237
+1 Frontier Bivouac (KTK) 234
+1 Sandsteppe Citadel (KTK) 241
+1 Mystic Monastery (KTK) 236
+1 Opulent Palace (KTK) 238
+1 Exotic Orchard (CON) 142
+1 Forbidden Orchard (CHK) 276
+1 Mana Confluence (JOU) 163
+1 Rogue's Passage (ORI) 250
+1 Throne of the High City (MKC) 307
+# maybeboard
+1 Condemn (M11) 11
+1 Ephemerate (MH1) 7
+1 Generous Gift (LCC) 128
+1 Approach of the Second Sun (AKH) 4
+1 Pongify (PLC) 44
+1 Rapid Hybridization (GTC) 44
+1 Impulse (DMU) 55
+1 Frantic Search (ULG) 32
+1 Dark Ritual (USG) 127
+1 Exhume (USG) 134
+1 Night's Whisper (5DN) 55
+1 Victimize (USG) 166
+1 Army of the Damned (ISD) 87
+1 Reverberate (M13) 145
+1 Regrowth (DDL) 64
+1 Lingering Souls (DKA) 12
+1 Unburial Rites (ISD) 122
+1 Boros Charm (GTC) 148
+1 Growth Spiral (RNA) 178

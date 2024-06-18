@@ -1,0 +1,440 @@
+1 Gifted Aetherborn (GN3) 52
+1 Perilous Myr (CMR) 330
+1 Syndicate Trafficker (KLD) 101
+1 Defiant Salvager (CMR) 117
+1 Vengeful Rebel (AER) 73
+1 Weaponcraft Enthusiast (KLD) 105
+1 Aetherborn Marauder (KLD) 71
+1 Midnight Entourage (AER) 66
+1 Rush of Vitality (KLD) 99
+1 Renegade's Getaway (AER) 69
+1 Fortuitous Find (KLD) 81
+1 Executioner's Capsule (BRC) 104
+1 Metalspinner's Puzzleknot (KLD) 221
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Thriving Moor (MOC) 442
+1 Anointed Chorister (M21) 4
+1 Angelic Page (J22) 146
+1 Celestial Enforcer (M21) 11
+1 Emancipation Angel (J22) 55
+1 Baneslayer Angel (M21) 6
+1 Serra Angel (GN3) 17
+1 Voice of the Provinces (JMP) 137
+1 Angelic Ascension (M21) 3
+1 Feat of Resistance (M21) 19
+1 Angelic Edict (J22) 145
+1 Scroll of Avacyn (JMP) 483
+1 Guardian Idol (JMP) 467
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Thriving Heath (MOC) 440
+1 Brazen Dwarf (AFR) 134
+1 Plundering Barbarian (AFR) 158
+1 Chaos Channeler (AFR) 136
+1 Delina, Wild Mage (AFR) 138
+1 Hoarding Ogre (CLB) 181
+1 Swarming Goblins (AFR) 162
+1 Earth-Cult Elemental (AFR) 141
+1 Critical Hit (AFR) 137
+1 Farideh's Fireball (AFR) 142
+1 Spiked Pit Trap (AFR) 251
+1 Goblin Morningstar (AFR) 145
+1 Barbarian Class (AFR) 131
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Thriving Bluff (J22) 822
+1 Feral Prowler (JMP) 397
+1 Hungry Lynx (C17) 31
+1 Initiate's Companion (JMP) 403
+1 Feline Sovereign (M21) 180
+1 Penumbra Bobcat (JMP) 418
+1 Pridemalkin (MOC) 308
+1 Canopy Stalker (M21) 175
+1 Keeper of Fables (ZNC) 71
+1 Nature's Way (JMP) 412
+1 Enlarge (J22) 656
+1 Feral Invocation (JMP) 396
+1 Colossification (IKO) 148
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Thriving Grove (J22) 823
+1 Gleaming Barrier (J22) 768
+1 Ornithopter of Paradise (MH2) 232
+1 Skittering Surveyor (MOM) 264
+1 Glinting Creeper (MH2) 164
+1 Radiant Epicure (MH2) 98
+1 Prismatic Ending (MH2) 25
+1 Kaleidoscorch (MH2) 133
+1 Sweep the Skies (MH2) 70
+1 Renegade Map (AER) 173
+1 Prophetic Prism (ONE) 238
+1 Chamber Sentry (JMP) 461
+1 Garth One-Eye (MH2) 197
+1 Ash Barrens (J22) 809
+1 Forest (WHO) 205
+1 Island (WHO) 199
+1 Mountain (WHO) 203
+1 Plains (WHO) 197
+1 Rupture Spire (CMR) 355
+1 Swamp (WHO) 201
+1 Terramorphic Expanse (MOC) 439
+1 Doomed Dissenter (J22) 402
+1 Demon's Disciple (J22) 399
+1 Dutiful Attendant (JMP) 226
+1 Blood Speaker (CHK) 103
+1 Indulgent Tormentor (SCD) 81
+1 Priest of the Blood Rite (J22) 457
+1 Goremand (M21) 101
+1 Reaper from the Abyss (J22) 458
+1 Dark Ritual (DDC) 45
+1 Victim of Night (DDQ) 67
+1 Sign in Blood (SCD) 107
+1 Victimize (MOC) 270
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Thriving Moor (MOC) 442
+1 Dragon Hatchling (GN3) 72
+1 Dragonlord's Servant (J22) 524
+1 Furnace Whelp (J22) 537
+1 Thunderbreak Regent (SCD) 163
+1 Lightning Shrieker (JMP) 345
+1 Rapacious Dragon (M20) 153
+1 Scourge of Valkas (SCD) 157
+1 Lathliss, Dragon Queen (J22) 566
+1 Draconic Roar (JMP) 308
+1 Flame Sweep (M20) 139
+1 Dragon's Hoard (J22) 763
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Thriving Bluff (J22) 822
+1 Elvish Mystic (M15) 173
+1 Skyway Sniper (M21) 206
+1 Dwynen's Elite (J22) 651
+1 Silhana Wayfinder (JMP) 430
+1 Elvish Archdruid (GN3) 93
+1 Imperious Perfect (J22) 677
+1 Llanowar Visionary (M21) 193
+1 Reclamation Sage (J22) 717
+1 Craterhoof Behemoth (JMP) 385
+1 Titanic Growth (ONE) 187
+1 Crushing Canopy (JMP) 386
+1 Hunter's Edge (J22) 675
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Thriving Grove (J22) 823
+1 Dawnhart Geist (VOW) 8
+1 Nyx-Fleece Ram (JOU) 18
+1 Spirited Companion (MOC) 208
+1 Mesa Enchantress (C15) 75
+1 Lotus-Eye Mystics (FRF) 17
+1 Sky-Blessed Samurai (NEO) 37
+1 Journey to Nowhere (CMD) 17
+1 Abiding Grace (MH2) 1
+1 Cage of Hands (J22) 162
+1 Oblivion Ring (M13) 22
+1 Omen of the Sun (THB) 30
+1 Sigil of the Empty Throne (J22) 244
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Thriving Heath (MOC) 440
+1 Faerie Seer (J22) 295
+1 Faerie Vandal (J22) 296
+1 Spellstutter Sprite (J22) 65
+1 Pestermite (J22) 335
+1 Sprite Noble (TSP) 81
+1 Tome Raider (ELD) 68
+1 Sower of Temptation (SLD) 120
+1 Faerie Invaders (DDN) 57
+1 Familiar's Ruse (LRW) 64
+1 Stolen by the Fae (J22) 353
+1 Distant Melody (MOC) 220
+1 Favorable Winds (SCD) 52
+1 Faerie Conclave (CMA) 248
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Thriving Isle (MOC) 441
+1 Sporecrown Thallid (DOM) 181
+1 Thallid Shell-Dweller (TSP) 226
+1 Vitaspore Thallid (PLC) 143
+1 Psychotrope Thallid (PLC) 137
+1 Thallid Germinator (TSP) 225
+1 Sporesower Thallid (TSP) 220
+1 Savage Thallid (TSP) 213
+1 Sporoloth Ancient (TSR) 232
+1 Tendershoot Dryad (RIX) 147
+1 Smell Fear (MH2) 173
+1 Overrun (SCD) 201
+1 Fungal Plots (DOM) 160
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Thriving Grove (J22) 823
+1 Towering-Wave Mystic (JMP) 186
+1 Wall of Lost Thoughts (JMP) 190
+1 Bruvac the Grandiloquent (JMP) 10
+1 Selhoff Occultist (JMP) 174
+1 Vedalken Entrancer (JMP) 188
+1 Belltower Sphinx (JMP) 141
+1 Thought Scour (JMP) 185
+1 Sweep Away (JMP) 180
+1 Thought Collapse (JMP) 184
+1 Fractured Sanity (CLB) 722
+1 Sphinx's Tutelage (ORI) 76
+1 Capture Sphere (M21) 47
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Thriving Isle (MOC) 441
+1 Bloodrage Brawler (JMP) 296
+1 Lightning Visionary (JMP) 22
+1 Minotaur Skullcleaver (JMP) 349
+1 Minotaur Sureshot (JMP) 350
+1 Rageblood Shaman (JMP) 357
+1 Oracle of Bones (BNG) 103
+1 Sure Strike (VOW) 179
+1 Unleash Fury (SCD) 166
+1 Soul Sear (M21) 160
+1 Traitorous Greed (M21) 166
+1 Flurry of Horns (JMP) 321
+1 Sethron, Hurloon General (JMP) 25
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Thriving Bluff (J22) 822
+1 Changeling Outcast (CLB) 743
+1 Dokuchi Silencer (NEO) 95
+1 Nezumi Prowler (NEO) 116
+1 Biting-Palm Ninja (NEO) 88
+1 Nashi, Moon Sage's Scion (NEO) 114
+1 Throatseeker (MH1) 110
+1 Azra Smokeshaper (MH1) 79
+1 Kami of Restless Shadows (NEO) 104
+1 Okiba-Gang Shinobi (PC2) 35
+1 Finishing Blow (M21) 99
+1 Kaito's Pursuit (NEO) 103
+1 Clawing Torment (NEO) 91
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Thriving Moor (MOC) 442
+1 Spectral Sailor (J22) 64
+1 Departed Deckhand (JMP) 149
+1 Warkite Marauder (RIX) 60
+1 Corsair Captain (JMP) 11
+1 Rishadan Airship (JMP) 170
+1 Sailor of Means (CMR) 88
+1 Dreamcaller Siren (XLN) 54
+1 Merchant Raiders (CMR) 81
+1 Chart a Course (JMP) 142
+1 Pirate's Cutlass (CMR) 333
+1 Curious Obsession (JMP) 148
+1 Capture Sphere (M21) 47
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Thriving Isle (MOC) 441
+1 Intrepid Outlander (AFR) 191
+1 Sylvan Ranger (JMP) 435
+1 Borderland Ranger (E02) 31
+1 Tireless Provisioner (MOC) 313
+1 Trophy Hunter (RAV) 187
+1 Murasa Ranger (BFZ) 178
+1 Elturgard Ranger (AFR) 182
+1 Somberwald Beastmaster (MIC) 30
+1 Aim High (BBD) 189
+1 Choose Your Weapon (AFR) 175
+1 Hunter's Mark (AFR) 188
+1 Ranger's Longbow (AFR) 203
+1 Ranger Class (AFR) 202
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Forest (WHO) 205
+1 Thriving Grove (J22) 823
+1 Arcane Investigator (AFR) 46
+1 Pixie Guide (AFR) 66
+1 Feywild Trickster (AFR) 58
+1 Scion of Stygia (AFR) 70
+1 Djinni Windseer (AFR) 55
+1 Aberrant Mind Sorcerer (AFR) 44
+1 Air-Cult Elemental (AFR) 45
+1 Mordenkainen's Polymorph (AFR) 65
+1 Contact Other Plane (AFR) 52
+1 Power of Persuasion (AFR) 67
+1 Spiked Pit Trap (AFR) 251
+1 Trickster's Talisman (AFR) 79
+1 Treasure Chest (AFR) 252
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Island (WHO) 199
+1 Thriving Isle (MOC) 441
+1 Rabbit Battery (NEO) 157
+1 Reinforced Ronin (NEO) 158
+1 Akki Ronin (NEO) 131
+1 Goro-Goro, Disciple of Ryusei (NEO) 145
+1 Lizard Blades (NEO) 153
+1 Destructive Digger (M20) 134
+1 Peerless Samurai (NEO) 156
+1 Heiko Yamazaki, the General (NEO) 146
+1 Kami of Industry (NEO) 149
+1 Kami's Flare (NEO) 150
+1 Experimental Synthesizer (NEO) 138
+1 Dragonspark Reactor (NEO) 137
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Mountain (WHO) 203
+1 Thriving Bluff (J22) 822
+1 Daybreak Charger (J22) 172
+1 Mesa Unicorn (JMP) 122
+1 Brightmare (J22) 159
+1 Celestial Unicorn (AFR) 5
+1 Splendor Mare (IKO) 32
+1 Valorous Steed (J22) 264
+1 Cloudshift (JMP) 97
+1 Valorous Stance (J22) 59
+1 Inspired Charge (MOM) 19
+1 Faith's Fetters (J22) 181
+1 Blessed Sanctuary (J22) 157
+1 Emiel the Blessed (J22) 180
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Plains (WHO) 197
+1 Thriving Heath (MOC) 440
+1 Chronomaton (DDM) 2
+1 Iron Apprentice (NEO) 248
+1 Patchwork Automaton (NEO) 254
+1 Steel Overseer (J22) 798
+1 Voltaic Servant (DOM) 236
+1 Farmstead Gleaner (MH1) 222
+1 Iron Bully (J22) 778
+1 Steel Dromedary (MH2) 237
+1 Introduction to Annihilation (STX) 3
+1 Springjaw Trap (IKO) 241
+1 Armory of Iroas (CMR) 299
+1 Ecologist's Terrarium (NEO) 246
+1 Cave of Temptation (MH1) 237
+1 Uncharted Haven (NEO) 281
+1 Wastes (OGW) 184
+1 Wastes (OGW) 183
+1 Wastes (OGW) 184
+1 Wastes (OGW) 183
+1 Wastes (OGW) 184
+1 Wastes (OGW) 183
+1 Blood Artist (J22) 117
+1 Dusk Legion Zealot (GN3) 49
+1 Gifted Aetherborn (GN3) 52
+1 Nocturnal Feeder (JMP) 16
+1 Veinwitch Coven (C21) 46
+1 Bloodbond Vampire (J22) 380
+1 Falkenrath Noble (J22) 414
+1 Sanctum Seeker (VOC) 136
+1 Urge to Feed (VOC) 139
+1 Agonizing Syphon (JMP) 199
+1 Sanguine Indulgence (M21) 121
+1 Mark of the Vampire (JMP) 254
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Thriving Moor (MOC) 442
+1 Cauldron Familiar (JMP) 216
+1 Festering Newt (JMP) 234
+1 Festering Newt (JMP) 234
+1 Bloodthirsty Aerialist (J22) 381
+1 Tempting Witch (JMP) 283
+1 Bloodhunter Bat (JMP) 210
+1 Bogbrew Witch (JMP) 211
+1 Witch of the Moors (JMP) 18
+1 Bake into a Pie (JMP) 201
+1 Witch's Cauldron (J22) 490
+1 Witch's Oven (ELD) 237
+1 Bubbling Cauldron (JMP) 460
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Swamp (WHO) 201
+1 Thriving Moor (MOC) 442

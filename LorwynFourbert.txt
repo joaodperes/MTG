@@ -1,0 +1,271 @@
+# mainboard
+1 Reveillark (MOR) 22
+1 Pacifism (MIR) 32
+1 Hillcomber Giant (LRW) 20
+1 Hundred-Handed One (THS) 20
+1 Cloudgoat Ranger (LRW) 10
+1 Feudkiller's Verdict (MOR) 9
+1 Grasping Giant (THB) 288
+1 Jareth, Leonine Titan (EMA) 16
+1 Cenn's Tactician (MOR) 5
+1 Goldmeadow Harrier (LRW) 17
+1 Goldmeadow Stalwart (LRW) 18
+1 Ballyrush Banneret (MOR) 1
+1 Cenn's Heir (LRW) 8
+1 Kithkin Greatheart (LRW) 25
+1 Knight of Meadowgrain (LRW) 28
+1 Militia's Pride (LRW) 30
+1 Order of the Golden Cricket (MOR) 19
+1 Patrol Signaler (EVE) 12
+1 Surge of Thoughtweft (LRW) 43
+1 Wizened Cenn (LRW) 49
+1 Kinsbaile Borderguard (MOR) 14
+1 Kithkin Harbinger (LRW) 26
+1 Order of Whiteclay (SHM) 16
+1 Preeminent Captain (MOR) 20
+1 Brigid, Hero of Kinsbaile (LRW) 6
+1 Kithkin Rabble (SHM) 9
+1 Thoughtweft Trio (LRW) 44
+1 Judge of Currents (LRW) 22
+1 Harpoon Sniper (LRW) 19
+1 Stonybrook Schoolmaster (MOR) 25
+1 Summon the School (LRW) 42
+1 Veteran of the Depths (LRW) 46
+1 Wellgabber Apothecary (LRW) 47
+1 Avian Changeling (LRW) 4
+1 Crib Swap (LRW) 11
+1 Mirror Entity (LRW) 31
+1 Changeling Sentinel (MOR) 6
+1 Changeling Hero (LRW) 9
+1 Indomitable Ancients (MOR) 13
+1 Oaken Brawler (LRW) 33
+1 Coordinated Barrage (MOR) 7
+1 Oblivion Ring (LRW) 34
+1 Kinsbaile Balloonist (LRW) 23
+1 Nevermaker (MOR) 44
+1 Mulldrifter (LRW) 76
+1 Ringskipper (LRW) 81
+1 Spellstutter Sprite (LRW) 89
+1 Dewdrop Spy (MOR) 30
+1 Faerie Trickery (LRW) 62
+1 Pestermite (LRW) 78
+1 Scion of Oona (LRW) 83
+1 Vendilion Clique (MOR) 55
+1 Faerie Harbinger (LRW) 61
+1 Mistbind Clique (LRW) 75
+1 Notorious Throng (MOR) 45
+1 Aquitect's Will (LRW) 52
+1 Stream of Unconsciousness (MOR) 52
+1 Tideshaper Mystic (LRW) 93
+1 Lord of Atlantis (TSB) 24
+1 Master of the Pearl Trident (M13) 59
+1 Merrow Commerce (LRW) 72
+1 Silvergill Adept (LRW) 86
+1 Silvergill Douser (LRW) 87
+1 Stonybrook Angler (LRW) 90
+1 Stonybrook Banneret (MOR) 51
+1 Deeproot Waters (XLN) 51
+1 Merfolk Sovereign (M11) 65
+1 Merrow Reejerey (LRW) 74
+1 Sage of Fables (MOR) 47
+1 Merrow Harbinger (LRW) 73
+1 Seafloor Oracle (RIX) 51
+1 Surgespanner (LRW) 92
+1 Waterspout Weavers (MOR) 56
+1 Wanderwine Prophets (LRW) 95
+1 Mothdust Changeling (MOR) 42
+1 Amoeboid Changeling (LRW) 51
+1 Shapesharer (LRW) 85
+1 Wings of Velis Vel (LRW) 97
+1 Ego Erasure (LRW) 59
+1 Mistwalker (KHM) 68
+1 Turtleshell Changeling (LRW) 94
+1 Disperse (MOR) 31
+1 Glimmerdust Nap (LRW) 68
+1 Shriekmaw (LRW) 139
+1 Gnarlroot Trapper (ORI) 100
+1 Prowess of the Fair (LRW) 136
+1 Eyeblight's Ending (LRW) 110
+1 Lys Alana Scarblade (LRW) 122
+1 Ruthless Winnower (KHC) 10
+1 Nightshade Stinger (LRW) 132
+1 Peppersmoke (LRW) 134
+1 Bitterblossom (MOR) 58
+1 Nectar Faerie (LRW) 130
+1 Oona's Blackguard (MOR) 72
+1 Oona's Prowler (LRW) 133
+1 Thieving Sprite (LRW) 143
+1 Final-Sting Faerie (MOR) 63
+1 Marsh Flitter (LRW) 125
+1 Rankle, Master of Pranks (ELD) 101
+1 Nightshade Schemers (MOR) 69
+1 Puppeteer Clique (SHM) 75
+1 Violet Pall (MOR) 81
+1 Facevaulter (LRW) 111
+1 Knucklebone Witch (LRW) 120
+1 Exiled Boggart (LRW) 109
+1 Frogtosser Banneret (MOR) 64
+1 Squeaking Pie Sneak (LRW) 142
+1 Warren Weirding (MOR) 82
+1 Weirding Shaman (MOR) 84
+1 Auntie's Snitch (MOR) 57
+1 Boggart Harbinger (LRW) 102
+1 Mad Auntie (LRW) 123
+1 Warteye Witch (MH1) 115
+1 Boggart Mob (LRW) 104
+1 Fodder Launch (LRW) 114
+1 Sling-Gang Lieutenant (MH1) 108
+1 Nameless Inversion (LRW) 128
+1 Skeletal Changeling (LRW) 140
+1 Ghostly Changeling (LRW) 116
+1 Moonglove Changeling (MOR) 67
+1 Graveshifter (M3C) 198
+1 Cairn Wanderer (LRW) 105
+1 Black Poplar Shaman (LRW) 99
+1 Thorntooth Witch (LRW) 144
+1 Flamekin Brawler (LRW) 166
+1 Flamekin Harbinger (LRW) 167
+1 Ashling the Pilgrim (LRW) 149
+1 Brighthearth Banneret (MOR) 88
+1 Flamekin Spitfire (LRW) 168
+1 Smokebraider (LRW) 189
+1 Soulbright Flamekin (LRW) 190
+1 Sunflare Shaman (MOR) 108
+1 Incandescent Soulstoke (LRW) 178
+1 Inner-Flame Acolyte (LRW) 181
+1 Inner-Flame Igniter (LRW) 182
+1 Rage Forger (MOR) 97
+1 Consuming Bonfire (LRW) 161
+1 Crush Underfoot (LRW) 162
+1 Countryside Crusher (MOR) 89
+1 Calamity Bearer (KHM) 125
+1 Lowland Oaf (LRW) 184
+1 Two-Headed Giant (DOM) 147
+1 Giant Harbinger (LRW) 169
+1 Squash (KHM) 152
+1 Surtland Flinger (KHM) 377
+1 Thundercloud Shaman (LRW) 195
+1 Sunrise Sovereign (LRW) 192
+1 Boldwyr Intimidator (MOR) 86
+1 Borderland Behemoth (MOR) 87
+1 Hearthcage Giant (LRW) 174
+1 Tarfire (LRW) 194
+1 Battle Cry Goblin (AFR) 132
+1 Boggart Sprite-Chaser (LRW) 156
+1 Warren Instigator (ZEN) 154
+1 Goblin Matron (MH1) 129
+1 Goblin Warchief (DOM) 130
+1 Pashalik Mons (MH1) 138
+1 Stinkdrinker Daredevil (LRW) 191
+1 Beetleback Chief (C14) 171
+1 Caterwauling Boggart (LRW) 157
+1 Blades of Velis Vel (LRW) 152
+1 Fire-Belly Changeling (LRW) 164
+1 Taurean Mauler (MOR) 109
+1 Changeling Berserker (LRW) 160
+1 War-Spike Changeling (MOR) 112
+1 Shared Animosity (MOR) 104
+1 Briarhorn (LRW) 199
+1 Forgotten Ancient (C15) 185
+1 Elvish Eulogist (LRW) 205
+1 Llanowar Elves (M12) 182
+1 Bramblewood Paragon (MOR) 115
+1 Dwynen's Elite (ORI) 173
+1 Leaf Gilder (ORI) 184
+1 Wolf-Skull Shaman (MOR) 140
+1 Wren's Run Vanquisher (LRW) 245
+1 Elvish Archdruid (M13) 168
+1 Elvish Harbinger (LRW) 207
+1 Farhaven Elf (SHM) 113
+1 Gilt-Leaf Ambush (LRW) 214
+1 Imperious Perfect (LRW) 220
+1 Jagged-Scar Archers (LRW) 222
+1 Rhys the Exiled (MOR) 135
+1 Timberwatch Elf (DD1) 13
+1 Canopy Tactician (KHM) 378
+1 Dwynen, Gilt-Leaf Daen (ORI) 172
+1 Lys Alana Huntmaster (LRW) 229
+1 Wren's Run Packmaster (LRW) 244
+1 Kithkin Daggerdare (LRW) 223
+1 Kithkin Mourncaller (LRW) 224
+1 Guardian of Cloverdell (LRW) 216
+1 Woodland Changeling (LRW) 242
+1 Chameleon Colossus (MOR) 116
+1 Changeling Titan (LRW) 200
+1 Game-Trail Changeling (MOR) 123
+1 Treefolk Harbinger (LRW) 239
+1 Assault Formation (DTK) 173
+1 Bosk Banneret (MOR) 114
+1 Lignify (LRW) 228
+1 Battlewand Oak (LRW) 197
+1 Ambassador Oak (MOR) 113
+1 Dauntless Dourbark (LRW) 203
+1 Leaf-Crowned Elder (MOR) 128
+1 Unstoppable Ash (MOR) 137
+1 Reach of Branches (MOR) 132
+1 Seedguide Ash (LRW) 235
+1 Timber Protector (LRW) 238
+1 Orchard Warden (MOR) 131
+1 Hunt Down (LRW) 218
+1 Earthbrawn (MOR) 119
+1 Lace with Moonglove (LRW) 225
+1 Embodiment of Spring (KTK) 39
+1 Creeping Trailblazer (M20) 207
+1 Risen Reef (M20) 217
+1 Leafkin Avenger (M21) 220
+1 Omnath, Locus of the Roil (M20) 216
+1 Fusion Elemental (CON) 107
+1 Horde of Notions (LRW) 249
+1 Elves of Deep Shadow (RAV) 161
+1 Shaman of the Pack (ORI) 217
+1 Nath of the Gilt-Leaf (LRW) 250
+1 Glen Elendra Liege (SHM) 163
+1 Wydwen, the Biting Gale (LRW) 253
+1 Dire Undercurrents (SHM) 159
+1 Oona, Queen of the Fae (SHM) 172
+1 Deafening Clarion (GRN) 165
+1 Brion Stoutarm (LRW) 246
+1 Munitions Expert (MH1) 209
+1 Wort, Boggart Auntie (LRW) 252
+1 Safewright Quest (SHM) 240
+1 Gaddock Teeg (LRW) 248
+1 Pledge of Unity (WAR) 210
+1 Sygg, River Guide (LRW) 251
+1 Unsettled Mariner (MH1) 216
+1 Doran, the Siege Tower (LRW) 247
+1 Faeburrow Elder (ELD) 190
+1 Ancient Lumberknot (VOW) 230
+1 Sapling of Colfenor (EVE) 128
+1 Colfenor, the Last Yew (CMR) 274
+1 Runed Stalactite (LRW) 260
+1 Universal Automaton (J22) 803
+1 Morophon, the Boundless (MH1) 1
+1 Mana Cylix (CON) 138
+1 Springleaf Drum (BNG) 162
+1 Moonglove Extract (LRW) 258
+1 Door of Destinies (M14) 208
+1 Vanquisher's Banner (XLN) 251
+1 Obelisk of Urd (M15) 222
+1 Exotic Orchard (CON) 142
+1 Flamekin Village (C14) 60
+1 Primal Beyond (MOR) 149
+1 Gilt-Leaf Palace (LRW) 268
+1 Skemfar Elderhall (KHM) 268
+1 Faerie Conclave (10E) 351
+1 Secluded Glen (LRW) 271
+1 Ancient Amphitheater (LRW) 266
+1 Thriving Heath (JMP) 35
+1 Auntie's Hovel (LRW) 267
+1 Unclaimed Territory (XLN) 258
+1 Canopy Vista (BFZ) 234
+1 Rustic Clachan (MOR) 150
+1 Secluded Courtyard (NEO) 275
+1 Wanderwine Hub (LRW) 280
+1 Mutavault (M14) 228
+1 Murmuring Bosk (MOR) 147
+1 Sandsteppe Citadel (KTK) 241
+1 Vivid Crag (LRW) 275
+1 Vivid Creek (LRW) 276
+1 Vivid Grove (LRW) 277
+1 Vivid Marsh (LRW) 278
+1 Vivid Meadow (LRW) 279
